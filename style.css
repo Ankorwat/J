@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  color: Dark black;
+  background-color: teal;
+}
+h3 {
+  text-align: center;
+  color: goldenrod;
+}
+h1 {
+  text-align: center;
+  color: goldenrod;
+}
+.one {
+  position: relative;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.two {
+  width: 50%;
+  position: relative;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+footer {
+  text-align: center;
+}
+.btn {
+  text-decoration: none;
+  padding: 20px;
+  margin: 50px;
+  color: darksalmon;
+}
+.song {
+  text-decoration: none;
+  color: darksalmon;
+}
+a:hover {
+  color: firebrick;
+}
+hr {
+  width: 50%;
+}
