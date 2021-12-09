@@ -3,6 +3,7 @@ body {
   color: Dark black;
   background-color: teal;
 }
+
 h3 {
   text-align: center;
   color: goldenrod;
@@ -12,6 +13,7 @@ h1 {
   color: goldenrod;
 }
 .one {
+  width: 50%;
   position: relative;
   margin-left: 25%;
   margin-right: 25%;
